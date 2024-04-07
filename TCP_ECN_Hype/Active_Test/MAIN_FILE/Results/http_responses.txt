@@ -1,0 +1,561 @@
+39.156.66.10 responded without data. ECT(0) is set in the response.
+
+98.137.11.164 responded without data. ECT(0) is not set in the response.
+
+203.205.254.157 responded without data. ECT(0) is not set in the response.
+
+204.79.197.212 responded without data. ECT(0) is not set in the response.
+
+13.107.42.14 responded without data. ECT(0) is not set in the response.
+
+59.82.122.115 responded without data. ECT(0) is not set in the response.
+
+124.237.176.248 responded without data. ECT(0) is set in the response.
+
+36.99.171.154 responded without data. ECT(0) is set in the response.
+
+59.82.122.115 responded without data. ECT(0) is not set in the response.
+
+13.107.21.200 responded without data. ECT(0) is not set in the response.
+
+204.79.197.219 responded without data. ECT(0) is not set in the response.
+
+47.93.60.29 responded without data. ECT(0) is not set in the response.
+
+13.107.6.156 responded without data. ECT(0) is not set in the response.
+
+59.82.60.44 responded without data. ECT(0) is not set in the response.
+
+106.11.43.71 responded without data. ECT(0) is not set in the response.
+
+208.109.192.70 responded without data. ECT(0) is not set in the response.
+
+104.192.110.232 responded without data. ECT(0) is not set in the response.
+
+104.192.110.226 responded without data. ECT(0) is not set in the response.
+
+104.192.110.226 responded without data. ECT(0) is not set in the response.
+
+Response from 186.192.83.12:
+HTTP/1.1 302 Moved Temporarily
+Date: Sun, 07 Apr 2024 06:31:28 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: keep-alive
+Cache-Control: max-age=300
+Location: http://www.globo.com
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+ECT(0) is set in the response.
+
+Response from 200.147.35.149:
+HTTP/1.0 301 Moved Permanently
+Location: https://www.uol.com.br/
+Cache-Control: max-age=60
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+ECT(0) is set in the response.
+
+103.41.167.234 responded without data. ECT(0) is not set in the response.
+
+106.11.43.71 responded without data. ECT(0) is not set in the response.
+
+219.85.79.131 responded without data. ECT(0) is not set in the response.
+
+212.97.32.174 responded without data. ECT(0) is not set in the response.
+
+Response from 171.159.228.150:
+HTTP/1.0 301 Moved Permanently
+Location: https://www.bankofamerica.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+ECT(0) is set in the response.
+
+39.107.241.57 responded without data. ECT(0) is not set in the response.
+
+60.205.255.187 responded without data. ECT(0) is not set in the response.
+
+23.111.171.90 did not respond to HTTP GET request
+156.40.212.210 did not respond to HTTP GET request
+134.175.173.148 responded without data. ECT(0) is not set in the response.
+
+136.143.190.155 responded without data. ECT(0) is set in the response.
+
+208.109.192.71 responded without data. ECT(0) is not set in the response.
+
+Response from 199.15.163.133:
+HTTP/1.1 301 Moved Permanently
+Location: https://www.wix.com
+Strict-Transport-Security: max-age=121 ; includeSubDomains
+X-Seen-By: yI4PPEXc3bvXNWfpzSkUarxkNjrXdwdgtu6E0yACibU=
+Connection: close
+Content-Length: 0
+
+
+ECT(0) is set in the response.
+
+106.39.171.134 responded without data. ECT(0) is set in the response.
+
+Response from 15.72.80.135:
+HTTP/1.1 200 OK
+Date: Sun, 07 Apr 2024 06:32:07 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+Cache-Control: max-age=7200
+Expires: Sun, 07 Apr 2024 08:32:07 GMT
+X-Content-Type-Options: nosniff
+Content-Length: 617
+Content-Type: text/html
+X-Varnish: 158859849
+Age: 0
+Via: 1.1 varnish (Varnish/6.0)
+X-Varnish-Origin: g8t12113g.inc.hp.com
+X-Cache: MISS
+Connection: keep-alive
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-us">
+ECT(0) is set in the response.
+
+101.37.97.51 responded without data. ECT(0) is not set in the response.
+
+Response from 211.45.27.231:
+HTTP/1.1 200 OK
+Cache-Control: max-age=86400
+Content-Type: text/html
+Last-Modified: Thu, 12 Feb 2015 00:26:25 GMT
+Accept-Ranges: bytes
+ETag: "9674d3885a46d01:0"
+Date: Sun, 07 Apr 2024 06:32:06 GMT
+Content-Length: 23987
+Set-Cookie: TS01ef6e9e=01baedfe8ede5657f50171563b97fcfafa4bf797ac63a4744d5e1142544f70cbd20f2229c5a0432d9114461df87948af0157a9c0d9; Path=/
+
+<html>
+<head><title>Samsung's Digital World</title>
+<META HTTP-EQUIV="refresh" CONTENT="0;URL= http://www.samsung.com/"> 
+
+</head>
+<body  bgcolor="#eeeeee"  text="
+ECT(0) is set in the response.
+
+13.107.6.168 responded without data. ECT(0) is not set in the response.
+
+49.4.62.169 responded without data. ECT(0) is set in the response.
+
+182.131.26.231 did not respond to HTTP GET request
+Response from 199.116.164.229:
+HTTP/1.1 302 Found
+Date: Sun, 07 Apr 2024 06:32:12 GMT
+Server: Apache
+Content-Type: text/html;charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: http://www.pandora.com/restricted
+Set-Cookie: v2regbstage=;Path=/;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0
+Content-Length: 0
+Strict-Transport-Security: max-age=31536000
+
+
+ECT(0) is set in the response.
+
+172.252.47.80 did not respond to HTTP GET request
+Response from 82.165.229.87:
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 07 Apr 2024 06:32:15 GMT
+Server: Apache
+Location: https://web.de/
+Content-Length: 223
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://web.de/">here</a>.</p>
+</body></html>
+
+ECT(0) is set in the response.
+
+96.99.240.130 did not respond to HTTP GET request
+Response from 103.252.142.27:
+HTTP/1.0 302 Moved Temporarily
+Location: https://www.irctc.co.in/nget/
+Connection: Keep-Alive
+Content-Length: 0
+
+
+ECT(0) is set in the response.
+
+Response from 82.165.229.138:
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 07 Apr 2024 06:32:18 GMT
+Server: Apache
+Location: https://web.de/
+Content-Length: 223
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://web.de/">here</a>.</p>
+</body></html>
+
+ECT(0) is set in the response.
+
+194.36.160.15 responded without data. ECT(0) is not set in the response.
+
+Response from 167.68.44.27:
+HTTP/1.0 301 Moved Permanently
+Location: http://www.167.68.44.27/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+ECT(0) is set in the response.
+
+212.82.100.163 responded without data. ECT(0) is not set in the response.
+
+143.166.136.12 responded without data. ECT(0) is not set in the response.
+
+35.247.145.125 responded without data. ECT(0) is not set in the response.
+
+45.87.28.58 did not respond to HTTP GET request
+161.117.97.92 responded without data. ECT(0) is not set in the response.
+
+34.147.120.111 responded without data. ECT(0) is not set in the response.
+
+Response from 207.231.204.56:
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 07 Apr 2024 06:32:40 GMT
+Server: Apache
+Location: https://www.webmd.com
+Content-Length: 229
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: BIGipServerredirects.ma1.webmd.com-80=1913855242.20992.0000; path=/; Httponly
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.webmd.com">here</a>.</p>
+</body></html>
+
+ECT(0) is set in the response.
+
+Response from 193.252.148.192:
+HTTP/1.1 302 Found
+Date: Sun, 07 Apr 2024 06:32:40 GMT
+Server: Apache
+Location: https://r.orange.fr/r/Oerreur_unavailable
+Content-Length: 225
+X-Cnection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://r.orange.fr/r/Oerreur_unavailable">here</a>.</p>
+</body></html>
+
+ECT(0) is set in the response.
+
+83.66.162.26 did not respond to HTTP GET request
+Response from 210.210.24.66:
+HTTP/1.1 302 Found
+Date: Sun, 07 Apr 2024 06:32:45 GMT
+Location: https://www.billdesk.com/web/
+Content-Length: 213
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: BIGipServerIC_pg_http=!0knKH8oL0iGmWOKO6rKxr+I0lpMKjHmDfTgQF2t+nTpV2GBeQpRZYBtiPEqnBmGu0NA5w2G3nCICo7o=; path=/; Httponly
+Set-Cookie: TS01513eda=01eb63c73057ae5fab843ba10bb651728fb8e8a2d255db5baa86f81ab9fbbf31f59f82e45b082b8e232880f445a7001f173679a7b517c7afab648ef83364f2e690ccfa8324; Path=/; Domain=210.210.24.66; HTTPOnly
+X-XSS-Protection: 1; mode=block
+X
+ECT(0) is not set in the response.
+
+121.125.60.151 responded without data. ECT(0) is set in the response.
+
+144.160.155.43 responded without data. ECT(0) is not set in the response.
+
+96.99.227.0 did not respond to HTTP GET request
+34.90.247.117 responded without data. ECT(0) is not set in the response.
+
+107.167.188.74 responded without data. ECT(0) is not set in the response.
+
+140.207.188.119 responded without data. ECT(0) is not set in the response.
+
+35.200.167.142 responded without data. ECT(0) is not set in the response.
+
+149.56.201.253 did not respond to HTTP GET request
+59.82.120.115 responded without data. ECT(0) is not set in the response.
+
+83.66.162.26 did not respond to HTTP GET request
+185.134.203.245 responded without data. ECT(0) is not set in the response.
+
+Response from 125.16.74.90:
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 07 Apr 2024 06:33:12 GMT
+Server: Apache
+Location: https://www.airtel.in/
+Cache-Control: max-age=0
+Expires: Sun, 07 Apr 2024 06:33:12 GMT
+Content-Length: 230
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.airtel.in/">here</a>.</p>
+</body></html>
+
+ECT(0) is set in the response.
+
+Response from 103.10.4.227:
+HTTP/1.1 301 Moved Permanently
+Cache-Control: public, max-age=31536000
+Content-Type: text/html; charset=UTF-8
+Location: https://103.10.4.227/
+Server: 8
+Content-Security-Policy: default-src 'self' blob: data: https://www.asus.com; img-src 'self' blob: data: https://www.asus.com; script-src 'self' blob: https://www.asus.com; style-src 'self' https://www.asus.com
+permissions-policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+Referrer-Policy: strict-origi
+ECT(0) is not set in the response.
+
+34.143.193.14 responded without data. ECT(0) is not set in the response.
+
+150.109.68.232 responded without data. ECT(0) is not set in the response.
+
+116.62.212.163 responded without data. ECT(0) is not set in the response.
+
+203.183.234.2 responded without data. ECT(0) is not set in the response.
+
+47.246.159.50 responded without data. ECT(0) is not set in the response.
+
+104.43.221.31 did not respond to HTTP GET request
+Response from 213.209.17.209:
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 07 Apr 2024 06:33:50 GMT
+Content-Type: text/html
+Content-Length: 3700
+Last-Modified: Mon, 31 Oct 2016 12:37:02 GMT
+Connection: keep-alive
+ETag: "58173aee-e74"
+Accept-Ranges: bytes
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>Test Page for the Nginx HTTP Server on Fedora</title>
+        <meta http-equiv="Content-Type" content="text/html; charset
+ECT(0) is set in the response.
+
+52.117.224.146 responded without data. ECT(0) is set in the response.
+
+Response from 147.67.210.45:
+HTTP/1.1 403 Forbidden
+Cache-Control: no-cache
+Pragma: no-cache
+X-XSS-Protection: 1
+Content-Type: text/html; charset=utf-8
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+Content-Length: 642
+
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD>
+<BODY>
+<FONT face="Helvetica">
+<big><strong></strong></big><BR>
+</FONT>
+<blockquote>
+<TABLE border=0 cellPadding=1 width="80%">
+<TR><TD>
+<FONT face="Helvetica">
+<big>Access Denied (policy_denied)</big>
+<BR>
+<BR>
+</FONT>
+</TD></TR>
+<TR><TD>
+<FONT face="Helvetica">
+ECT(0) is set in the response.
+
+188.72.207.210 responded without data. ECT(0) is set in the response.
+
+Response from 80.252.0.145:
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 07 Apr 2024 06:33:58 GMT
+Location: https://www.gazeta.pl/0,0.html
+Content-Length: 238
+Content-Type: text/html; charset=iso-8859-1
+Server: Apache
+Connection: keep-alive
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.gazeta.pl/0,0.html">here</a>.</p>
+</body></html>
+
+ECT(0) is set in the response.
+
+180.76.198.147 responded without data. ECT(0) is not set in the response.
+
+74.117.179.67 responded without data. ECT(0) is set in the response.
+
+185.94.140.161 responded without data. ECT(0) is not set in the response.
+
+Response from 171.67.215.200:
+HTTP/1.1 200 OK
+Date: Sun, 07 Apr 2024 06:34:03 GMT
+Server: Apache
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+cba
+<!DOCTYPE html>
+<!--[if IE 7]> <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+
+<head>
+<title>Stanford University</title>
+
+<!-- Meta -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-sc
+ECT(0) is set in the response.
+
+Response from 103.103.30.100:
+HTTP/1.0 302 Moved Temporarily
+Location: https://103.103.30.100/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+ECT(0) is set in the response.
+
+103.52.175.107 responded without data. ECT(0) is set in the response.
+
+34.90.183.102 responded without data. ECT(0) is not set in the response.
+
+142.111.105.34 responded without data. ECT(0) is not set in the response.
+
+Response from 208.75.122.14:
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 07 Apr 2024 06:34:10 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000
+Location: http://208.75.122.14/index.jsp
+Cache-Control: max-age=0
+Expires: Sun, 07 Apr 2024 06:34:10 GMT
+Content-Length: 238
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: BIGipServerProdLP=!CYqae2XgjUZR79Z+8O42b8Jo15G7uAyBv7w28NK/MkESyTtQQSf5eVFtNV9Nmr+wTlA76nDMV6S8yw==; path=/; Httponly
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title
+ECT(0) is set in the response.
+
+112.124.44.92 responded without data. ECT(0) is not set in the response.
+
+212.129.158.120 responded without data. ECT(0) is not set in the response.
+
+42.187.161.231 responded without data. ECT(0) is not set in the response.
+
+199.80.59.186 responded without data. ECT(0) is set in the response.
+
+47.93.194.183 responded without data. ECT(0) is not set in the response.
+
+Response from 208.94.153.99:
+HTTP/1.0 302 Moved Temporarily
+Location: https://208.94.153.99/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+ECT(0) is set in the response.
+
+Response from 103.6.182.20:
+HTTP/1.0 301 Moved Permanently
+Location: https://www.agoda.com
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+ECT(0) is set in the response.
+
+140.207.177.207 responded without data. ECT(0) is not set in the response.
+
+195.216.243.246 responded without data. ECT(0) is set in the response.
+
+Response from 185.17.117.32:
+HTTP/1.0 301 Moved Permanently
+Location: https://185.17.117.32/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+ECT(0) is not set in the response.
+
+70.39.189.182 responded without data. ECT(0) is set in the response.
+
+88.212.202.50 responded without data. ECT(0) is set in the response.
+
+Response from 205.178.189.131:
+HTTP/1.1 302 Moved Temporarily
+Server: Sun-ONE-Web-Server/6.1
+Date: Sun, 07 Apr 2024 06:34:23 GMT
+Content-length: 0
+Content-type: text/html
+Location: http://power.networksolutions.com/index.html
+
+
+ECT(0) is set in the response.
+
+59.82.133.139 responded without data. ECT(0) is not set in the response.
+
+112.124.227.84 responded without data. ECT(0) is not set in the response.
+
+40.114.68.21 did not respond to HTTP GET request
+85.111.45.200 responded without data. ECT(0) is not set in the response.
+
+163.237.254.146 responded without data. ECT(0) is set in the response.
+

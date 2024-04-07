@@ -1,0 +1,110 @@
+39.156.66.10 did not respond to the follow-up packet
+98.137.11.164 responded to the follow-up packet with ECN: 0
+203.205.254.157 responded to the follow-up packet with ECN: 0
+204.79.197.212 responded to the follow-up packet with ECN: 0
+13.107.42.14 responded to the follow-up packet with ECN: 0
+59.82.122.115 responded to the follow-up packet with ECN: 0
+124.237.176.248 did not respond to the follow-up packet
+36.99.171.154 responded to the follow-up packet with ECN: 2
+59.82.122.115 responded to the follow-up packet with ECN: 0
+13.107.21.200 responded to the follow-up packet with ECN: 0
+204.79.197.219 responded to the follow-up packet with ECN: 0
+47.93.60.29 responded to the follow-up packet with ECN: 0
+13.107.6.156 responded to the follow-up packet with ECN: 0
+59.82.60.44 responded to the follow-up packet with ECN: 0
+106.11.43.71 responded to the follow-up packet with ECN: 0
+104.192.110.232 responded to the follow-up packet with ECN: 2
+104.192.110.226 responded to the follow-up packet with ECN: 2
+104.192.110.226 responded to the follow-up packet with ECN: 2
+186.192.83.12 did not respond to the follow-up packet
+200.147.35.149 did not respond to the follow-up packet
+103.41.167.234 did not respond to the follow-up packet
+106.11.43.71 responded to the follow-up packet with ECN: 0
+219.85.79.131 responded to the follow-up packet with ECN: 0
+212.97.32.174 responded to the follow-up packet with ECN: 0
+171.159.228.150 did not respond to the follow-up packet
+39.107.241.57 responded to the follow-up packet with ECN: 0
+60.205.255.187 responded to the follow-up packet with ECN: 0
+23.111.171.90 did not respond to the follow-up packet
+156.40.212.210 did not respond to the follow-up packet
+134.175.173.148 responded to the follow-up packet with ECN: 0
+136.143.190.155 responded to the follow-up packet with ECN: 2
+122.200.86.164 responded to the follow-up packet with ECN: 2
+199.15.163.133 did not respond to the follow-up packet
+106.39.171.134 responded to the follow-up packet with ECN: 2
+15.72.80.135 did not respond to the follow-up packet
+101.37.97.51 responded to the follow-up packet with ECN: 0
+211.45.27.231 did not respond to the follow-up packet
+140.205.174.2 responded to the follow-up packet with ECN: 0
+13.107.6.168 responded to the follow-up packet with ECN: 0
+49.4.62.169 did not respond to the follow-up packet
+182.131.26.231 did not respond to the follow-up packet
+199.116.164.229 did not respond to the follow-up packet
+172.252.47.80 did not respond to the follow-up packet
+96.99.240.130 did not respond to the follow-up packet
+103.252.142.27 did not respond to the follow-up packet
+82.165.229.138 did not respond to the follow-up packet
+167.68.44.27 did not respond to the follow-up packet
+212.82.100.163 responded to the follow-up packet with ECN: 0
+143.166.136.12 did not respond to the follow-up packet
+35.247.145.125 responded to the follow-up packet with ECN: 0
+45.87.28.58 did not respond to the follow-up packet
+161.117.97.92 responded to the follow-up packet with ECN: 0
+34.147.120.111 responded to the follow-up packet with ECN: 0
+207.231.204.56 did not respond to the follow-up packet
+193.252.148.192 did not respond to the follow-up packet
+83.66.162.26 did not respond to the follow-up packet
+210.210.24.66 did not respond to the follow-up packet
+121.125.60.151 responded to the follow-up packet with ECN: 2
+144.160.155.43 did not respond to the follow-up packet
+96.99.227.0 did not respond to the follow-up packet
+34.90.247.117 responded to the follow-up packet with ECN: 0
+107.167.188.74 responded to the follow-up packet with ECN: 0
+140.207.188.119 responded to the follow-up packet with ECN: 0
+35.200.167.142 responded to the follow-up packet with ECN: 0
+149.56.201.253 did not respond to the follow-up packet
+59.82.120.115 responded to the follow-up packet with ECN: 0
+83.66.162.26 did not respond to the follow-up packet
+185.134.203.245 responded to the follow-up packet with ECN: 0
+125.16.74.90 did not respond to the follow-up packet
+103.10.4.227 did not respond to the follow-up packet
+34.143.193.14 responded to the follow-up packet with ECN: 0
+150.109.68.232 responded to the follow-up packet with ECN: 0
+116.62.212.163 responded to the follow-up packet with ECN: 0
+203.183.234.2 responded to the follow-up packet with ECN: 0
+47.246.159.50 responded to the follow-up packet with ECN: 0
+104.43.221.31 did not respond to the follow-up packet
+213.209.17.209 did not respond to the follow-up packet
+52.117.224.146 responded to the follow-up packet with ECN: 0
+147.67.210.45 did not respond to the follow-up packet
+188.72.207.210 responded to the follow-up packet with ECN: 2
+80.252.0.145 did not respond to the follow-up packet
+98.129.228.59 did not respond to the follow-up packet
+180.76.198.147 did not respond to the follow-up packet
+74.117.179.67 responded to the follow-up packet with ECN: 2
+185.94.140.161 responded to the follow-up packet with ECN: 0
+171.67.215.200 did not respond to the follow-up packet
+103.103.30.100 did not respond to the follow-up packet
+212.192.240.178 responded to the follow-up packet with ECN: 0
+103.52.175.107 responded to the follow-up packet with ECN: 2
+34.90.183.102 responded to the follow-up packet with ECN: 0
+142.111.105.34 responded to the follow-up packet with ECN: 0
+208.75.122.14 did not respond to the follow-up packet
+112.124.44.92 responded to the follow-up packet with ECN: 0
+212.129.158.120 responded to the follow-up packet with ECN: 0
+42.187.161.231 responded to the follow-up packet with ECN: 0
+199.80.59.186 responded to the follow-up packet with ECN: 2
+47.93.194.183 responded to the follow-up packet with ECN: 0
+88.209.210.231 responded to the follow-up packet with ECN: 0
+208.94.153.99 did not respond to the follow-up packet
+103.6.182.20 did not respond to the follow-up packet
+140.207.177.207 responded to the follow-up packet with ECN: 0
+195.216.243.246 responded to the follow-up packet with ECN: 2
+185.17.117.32 did not respond to the follow-up packet
+70.39.189.182 responded to the follow-up packet with ECN: 2
+88.212.202.50 responded to the follow-up packet with ECN: 2
+205.178.189.131 did not respond to the follow-up packet
+59.82.133.139 responded to the follow-up packet with ECN: 0
+112.124.227.84 responded to the follow-up packet with ECN: 0
+40.114.68.21 did not respond to the follow-up packet
+163.237.254.146 did not respond to the follow-up packet
